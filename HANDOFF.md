@@ -1,5 +1,20 @@
 # Handoff
 
+## 2026-10-05: documentation closeout (Codex)
+- **Status:** Requested document synchronization completed; chat ready to archive. Existing PP-007 and medallion asset records/notes remain current; sibling EscapeBackpack/index.html now links the Hockey v1 print package in the shared six-adventure file list.
+- **Checks:** Document links and active records checked; root index and both Aurora guide sections reviewed over local HTTP; all 29 new section links/images return 200; images load, identity appears in print content, and no browser console warnings/errors. Earlier digital geometry checks still apply; no physical print or actual printer-profile slice.
+- **Next:** Print the thin back trial with the intended printer/material and inspect S/B/K, then test the full medallion. No commit, push or publication.
+
+
+## 2026-10-05: themed medallion built (Codex)
+- **Worked on:** PP-007, AS-003 and AS-004, after the designer requested medallions for Aurora, Hockey and Canada and selected the proposed motifs.
+- **Selected:** road and hockey puck, navy/yellow, with the improved shared back. The physical prop is not marked built/tested; final release/container remain unassigned.
+- **Created:** Full one-piece STL, matching 1.2 mm back trial, exact SVG profiles/PNG preview, reports, self-contained sources, README and ZIP under `assets/medallion/`.
+- **Method:** Vector CAD adapted from the existing identity SVG; no ImageGen used.
+- **Checks:** Both meshes pass closure, winding, one-solid connectivity, non-degenerate facets and volume checks; preview screen-reviewed; shared back SVG matches Space exactly; ZIP integrity and record validation pass. No printer-profile slice or physical test.
+- **Next step:** Print the full-size thin back trial using the actual printer/material and inspect S/B/K, then test the full two-colour medallion.
+
+
 Update at the end of every session. Newest entry on top. Refer to records by ID.
 
 ## 2026-10-01: visual identity exploration
@@ -37,5 +52,3 @@ Update at the end of every session. Newest entry on top. Refer to records by ID.
 - **Decided:** (IDs whose status changed to decided or built)
 - **New open questions:** (Q- IDs)
 - **Next step:**
-
-
