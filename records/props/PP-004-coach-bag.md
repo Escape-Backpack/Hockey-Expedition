@@ -20,6 +20,10 @@ tags: []
 
 Coach bag (idea only, role not decided). Candidate: Sherwood Shinny Coach Official's bag, 25 in, black (Canadian Tire). The designer says it has 4 large lockable compartments, so it could hold 4 locks. Other containers (pouches etc.) could add more locks.
 
+Historical container idea from the lock version. The current compact-box
+direction is PR-005; this bag is not the planned container, and its compartment
+count does not determine the number of envelope releases.
+
 Source: https://www.canadiantire.ca/en/pdp/sherwood-shinny-coach-official-s-bag-black-25-in-1830693p.html
 Puzzles and assets that use it show up automatically.
 

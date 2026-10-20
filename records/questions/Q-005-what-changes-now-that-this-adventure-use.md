@@ -5,7 +5,7 @@ type: question
 # open | answered | parked
 status: open
 # Records this question is about, e.g. [PZ-003]
-about: []
+about: [PR-005]
 # Leave empty while open
 answer:
 # Any related record IDs, e.g. [PZ-002, Q-004]
@@ -20,3 +20,8 @@ On 2026-10-12 the designer moved every adventure from locks in a backpack to mar
 - **No puzzles yet**, so no answers to convert. Props keep their envelope assignments where they had found_in values.
 - **Premise records** that mention the backpack as the container.
 - **Cipher**: backpack.json uses the kit's plain `shapes` preset (digits 0-9) and 2 decoy envelopes as a placeholder. Not chosen by the designer. Each adventure should get its own look (Space uses planets).
+
+2026-10-20 update: PR-005 records the smaller-box direction, with PP-002 and
+PP-001 as the proposed core props. Older bulky ideas now note the need for a fit
+review. Box dimensions, prop sizes, quantities and envelope packing still need
+decisions; the cipher remains open.

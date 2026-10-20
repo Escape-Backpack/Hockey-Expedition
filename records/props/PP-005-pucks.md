@@ -19,6 +19,8 @@ tags: []
 ---
 
 Pucks (idea only, role not decided). Small, cheap and easy to customize.
+Physical pucks need a fit review against PR-005 before inclusion; they are not
+part of the proposed flat photo-and-card core.
 Puzzles and assets that use it show up automatically.
 
 ## Player sees

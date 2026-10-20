@@ -19,6 +19,8 @@ tags: []
 ---
 
 Mini sticks (idea only, role not decided). Small enough to fit the backpack. One use idea: as a pointer, aimed at something to show where to look.
+The backpack fit assumption belongs to the earlier format. Review fit against
+PR-005 before including physical sticks in the compact box.
 Puzzles and assets that use it show up automatically.
 
 ## Player sees

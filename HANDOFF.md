@@ -1,5 +1,13 @@
 # Handoff
 
+## 2026-10-20: compact photo-and-card format (Codex)
+- **Requested:** Update the current HTML and supporting design records, commit and push.
+- **Updated:** PR-005 records the smaller-box direction. PP-002 specifies photographs with handwritten messages on the back; PP-001 develops trading cards as the companion prop. All three remain candidates, with no puzzle answers or mechanisms selected.
+- **Consistency:** PP-003 through PP-006 flag earlier bulky/container ideas for review against PR-005; Q-005 tracks remaining size, packing and cipher decisions. Earlier ideas remain recorded.
+- **HTML:** Rebuilt the generated design board from the records; `site/` is ignored by Git and is regenerated during deployment.
+- **Validation:** `kit.py check` passed (21 records, no problems), the HTML build succeeded, and `git diff --check` passed. Eight design records synced to Studio. Commit/push requested; pushing main triggers the site's rebuild workflow.
+- **Next:** Prototype photo/card fit and readability, then choose dimensions, quantities and puzzle roles. No physical playtest claimed.
+
 ## 2026-10-05: documentation closeout (Codex)
 - **Status:** Requested document synchronization completed; chat ready to archive. Existing PP-007 and medallion asset records/notes remain current; sibling EscapeBackpack/index.html now links the Hockey v1 print package in the shared six-adventure file list.
 - **Checks:** Document links and active records checked; root index and both Aurora guide sections reviewed over local HTTP; all 29 new section links/images return 200; images load, identity appears in print content, and no browser console warnings/errors. Earlier digital geometry checks still apply; no physical print or actual printer-profile slice.

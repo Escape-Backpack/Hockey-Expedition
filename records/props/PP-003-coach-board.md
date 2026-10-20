@@ -19,6 +19,8 @@ tags: []
 ---
 
 Coach board (idea only, role not decided). A coach's play board, possibly a magnetic or dry-erase one with a rink drawn on it.
+Under PR-005, review a flat photo-sized printed rink diagram if this idea is
+used. A full coach board has not been selected for the compact box.
 Puzzles and assets that use it show up automatically.
 
 ## Player sees

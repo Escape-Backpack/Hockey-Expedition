@@ -1,13 +1,13 @@
 ---
 id: PP-002
-title: Disposable camera pictures
+title: Photographs with handwritten messages on the back
 type: prop
 # idea | candidate | decided | built | parked
-status: idea
+status: candidate
 # physical | printed | digital
-form:
+form: printed
 # make | buy | print | 3d-print
-source:
+source: print
 # The play-test page shows the body's "## Player sees" section, or this prop's image asset.
 # Where the player finds it: start (loose in the box) or the puzzle whose answer opens its envelope, e.g. PZ-004
 envelope:
@@ -18,13 +18,24 @@ superseded_by:
 tags: []
 ---
 
-Disposable camera pictures (idea only, role not decided). Fits the sender's story of a friend who saw a game at every arena: the photos are from those trips.
+Printed photographs from the friend's hockey road trip, with handwritten
+messages on the back. The designer clarified this format on 2026-10-20:
+these are photos, not postcards. No physical camera is included.
 
-Direction (designer, 2026-10-01, still an idea): only the printed photos, no physical camera. One picture per lock release, as the recurring piece of the backpack. Some carry clues, some don't. Possibly part of the final meta puzzle.
+The photos carry the personal story and clues in the compact format (PR-005).
+Possible subjects include team pictures, rink scenes and locker room details.
+Messages can share trip memories and information used with PP-001. Specific
+images, wording, dimensions, quantities and release order remain open.
 
-Puzzles and assets that use it show up automatically.
+Earlier direction (2026-10-01, idea only): disposable-camera-style prints, one
+picture per lock release, some carrying clues, possibly contributing to a final
+meta puzzle. The one-per-release rhythm and final meta puzzle are still options,
+not confirmed mechanics for the envelope version.
 
 ## Player sees
+
+A photograph on the front and a handwritten message from the friend on the back.
+Artwork and message text have not been produced.
 
 ## Starting state
 
